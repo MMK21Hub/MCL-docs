@@ -5,3 +5,7 @@ theme:
     scheme: preference
     primary: green
     accent: light green
+  icon:
+    repo: fontawesome/brands/github
+repo_url: https://github.com/MMK21Hub/MCL-docs
+repo_name: MMK21Hub/MCL-docs
