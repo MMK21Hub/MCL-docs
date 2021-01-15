@@ -1,12 +1,14 @@
 site_name: MC Launcher docs
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: preference
     primary: green
     accent: light green
   icon:
     repo: fontawesome/brands/github
+    logo: favicon
   features:
     - navigation.tabs
 repo_url: https://github.com/MMK21Hub/MCL-docs
