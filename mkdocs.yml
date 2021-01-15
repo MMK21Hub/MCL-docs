@@ -1,0 +1,7 @@
+site_name: MC Launcher docs
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: green
+    accent: light green
